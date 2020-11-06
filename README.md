@@ -8,6 +8,6 @@ Atualmente sou aluno da:
 
 Apaixonado por tecnologia, venho me aprofundando em Node.js, React, React-Native e Java Web. </br>
  
-### Contato:
+#### Contato:
 - 📫 E-mail: lucassppedroso@gmail.com
 - 💬 Linkdin: https://www.linkedin.com/in/lucas-silva-pedroso/
