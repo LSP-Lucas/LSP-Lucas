@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **LSP-Lucas/LSP-Lucas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Olá 👋 Meu nome é Lucas da Silva Pedroso.
+
+Sou formado em Sistemas de Informação e Pós-graduado em Tecnologias para Aplicações Web.
+Atualmente sou aluno da:
+- 🚀 Rocketseat;
+- 🚀 IGTI;
+- 🚀 Full-Stack completo em Java Web;
+
+Apaixonado por tecnologia, venho me aprofundando em Node.js, React, React-Native e Java Web.
+
