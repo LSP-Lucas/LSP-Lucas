@@ -21,5 +21,8 @@ Atualmente sou aluno da:
 - 🚀 IGTI;
 - 🚀 Full-Stack completo em Java Web;
 
-Apaixonado por tecnologia, venho me aprofundando em Node.js, React, React-Native e Java Web.
-
+Apaixonado por tecnologia, venho me aprofundando em Node.js, React, React-Native e Java Web. </br>
+ 
+### Contato:
+- 📫 E-mail: lucassppedroso@gmail.com
+- 💬 Linkdin: https://www.linkedin.com/in/lucas-silva-pedroso/
