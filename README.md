@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ### Olá 👋 Meu nome é Lucas da Silva Pedroso.
 
-Sou formado em Sistemas de Informação e Pós-graduado em Tecnologias para Aplicações Web.
+Sou formado em Sistemas de Informação e Pós-graduado em Tecnologias para Aplicações Web. </br>
 Atualmente sou aluno da:
 - 🚀 Rocketseat;
 - 🚀 IGTI;
